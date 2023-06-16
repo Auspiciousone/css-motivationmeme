@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+}
+h1{
+    
+    font-size: 2rem;    
+    color: white;
+    text-align: center;
+}
+
+.md{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+    color:white;
+    font-family: 'Libre Baskerville', serif;
+ }
+.done{
+    border: 5px solid white;
+    width: 100%;
+}
+p{
+    color: white;
+    text-align: center;
+}
